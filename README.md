@@ -7,5 +7,5 @@ This Android ImageViewLoader class is designed to simplify the process of loadin
 Before using this class, make sure to add the Glide library to your app's `build.gradle` file:
 
 ```gradle
-implementation 'com.github.bumptech.glide:glide:4.12.0'
-annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
+implementation 'com.github.bumptech.glide:glide:$version'
+
